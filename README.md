@@ -28,5 +28,6 @@ Karabiner-Elementsの設定ファイルがあります．
 
 ## このレポジトリは以下を参考に改変したものです．
 - [Karabiner-Elementsで仮想WindowsのJIS配列をMacbookのUS(ANSI)配列で入力できるようにする](https://qiita.com/imoris/items/14442ba5e7bfb8282978)
+- [For Japanese （日本語環境向けの設定） (rev 6)](https://ke-complex-modifications.pqrs.org/#japanese)
 
 
