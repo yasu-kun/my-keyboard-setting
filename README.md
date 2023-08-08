@@ -13,6 +13,7 @@ Karabiner-Elementsの設定ファイルがあります．
 つまりVM上のレジストリとかをいじらないでもできます．
 
 ## 使用方法
+- ```~/.config/karabiner/assets/complex_modifications```へJSONを配置します．
 - キーボードのvendor_idをそれぞれ変更する必要があります．
   ```
   "identifiers": [
