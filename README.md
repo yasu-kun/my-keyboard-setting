@@ -3,14 +3,25 @@
 このレポジトリは，JIS配列のMacBookとUS配列の外付けキーボードを共存させるための
 Karabiner-Elementsの設定ファイルがあります．
 
+## 環境
+- Macbook JIS配列
+- Keychron K12 (外付けキーボード)
+- VMware Horizon View (Windows 10, JIS設定)
+
 ## できること
 - kana_eng.json
-  - JIS配列MacBookのように「英/かな」をそれぞれ左右commandで変更できます．
+  - JIS配列MacBookのように「英/かな」をそれぞれ左右commandで変更できます．  
     (従来の「[For Japanese （日本語環境向けの設定） (rev 6)](https://ke-complex-modifications.pqrs.org/#japanese)」をVMware以外のアプリケーションで(つまり，VMwareを使っていないときに)動くように改変しています)
 - us2jis.json
-  - VMware Horizon Viewに接続する際に，手元のUSキーボートをJIS配列に変換して
+  - VMware Horizon Viewの使用時に，手元のUSキーボートをJIS配列に変換して
 送信することによって仮想環境上でもUS配列が使えます．
 つまりVM上のレジストリとかをいじらないでもできます．
+- emacser.json
+  - VMware Horizon Viewの使用時に，以下のemacsキーバインドが仮想環境で使用できます．
+    - 行頭 (ctl-a)
+	- 行末 (ctl-a)
+	- 前後上下 (ctl-b,f,p,n)
+	- 削除 (ctl-d,h)
 
 ## 使用方法
 - ```~/.config/karabiner/assets/complex_modifications```へJSONを配置します．
@@ -23,6 +34,10 @@ Karabiner-Elementsの設定ファイルがあります．
     }
   ]
   ```
+
+- MacOSの環境設定で，Caps lockをcontrolに変更する．
+- KarabinereのSimple Modificationsで"caps_lock -> left_control"の設定をする．
+![karabiner setting img](imgs/simple_modi.png)
 
 ## Future work
 - windows上で基本的なemacsキーバインドが使えるようにする
