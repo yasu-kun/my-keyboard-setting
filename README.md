@@ -5,7 +5,12 @@ Karabiner-Elementsの設定ファイルがあります．
 
 ## 環境
 - Macbook JIS配列
-- Keychron K12 (外付けキーボード)
+- Keychron K12 (外付けUSキーボード)
+  - vender_id: 1452
+  - product_id: 591
+- Logitech K380 (外付けUSキーボード)
+  - vender_id: 1133
+  - product_id: 45890
 - VMware Horizon View (Windows 10, JIS設定)
 
 ## できること
