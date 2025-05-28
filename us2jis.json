@@ -25,7 +25,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -65,7 +65,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -108,7 +108,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -151,7 +151,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -194,7 +194,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -237,7 +237,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -280,7 +280,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -315,7 +315,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -358,7 +358,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -395,7 +395,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -432,7 +432,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -472,7 +472,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -507,7 +507,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -550,7 +550,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -582,7 +582,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -625,7 +625,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -668,7 +668,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -708,7 +708,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -750,7 +750,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
@@ -792,7 +792,7 @@
                         {
                             "type": "frontmost_application_if",
                             "bundle_identifiers": [
-                                "^com\\.vmware\\.horizon"
+                                "^com\\.omnissa\\.horizon\\.client"
                             ]
                         },
                         {
